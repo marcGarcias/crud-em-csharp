@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcelo Garcias\\Documents\\codes\\Visual Studio\\crud-study\\crud-csharp\\windows-forms\\Clientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A352CA32-33E4-45F3-84FE-F3293EFDEC29}|Clientes.csproj|c:\\users\\marcelo garcias\\documents\\codes\\visual studio\\crud-study\\crud-csharp\\windows-forms\\clientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A352CA32-33E4-45F3-84FE-F3293EFDEC29}|Clientes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A352CA32-33E4-45F3-84FE-F3293EFDEC29}|Clientes.csproj|C:\\Users\\Marcelo Garcias\\Documents\\codes\\Visual Studio\\crud-study\\crud-csharp\\windows-forms\\Clientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A352CA32-33E4-45F3-84FE-F3293EFDEC29}|Clientes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A352CA32-33E4-45F3-84FE-F3293EFDEC29}|Funcionario.csproj|C:\\Users\\Marcelo Garcias\\Documents\\codes\\Visual Studio\\crud-study\\crud-csharp\\windows-forms\\Clientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A352CA32-33E4-45F3-84FE-F3293EFDEC29}|Funcionario.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A352CA32-33E4-45F3-84FE-F3293EFDEC29}|Clientes.csproj|c:\\users\\marcelo garcias\\documents\\codes\\visual studio\\crud-study\\crud-csharp\\windows-forms\\clientes\\customerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A352CA32-33E4-45F3-84FE-F3293EFDEC29}|Clientes.csproj|solutionrelative:customerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A352CA32-33E4-45F3-84FE-F3293EFDEC29}|Clientes.csproj|c:\\users\\marcelo garcias\\documents\\codes\\visual studio\\crud-study\\crud-csharp\\windows-forms\\clientes\\baseconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A352CA32-33E4-45F3-84FE-F3293EFDEC29}|Clientes.csproj|solutionrelative:baseconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo Garcias\\Documents\\codes\\Visual Studio\\crud-study\\crud-csharp\\windows-forms\\Clientes\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Marcelo Garcias\\Documents\\codes\\Visual Studio\\crud-study\\crud-csharp\\windows-forms\\Clientes\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAjwN0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T04:20:05.359Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Marcelo Garcias\\Documents\\codes\\Visual Studio\\crud-study\\crud-csharp\\windows-forms\\Clientes\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Marcelo Garcias\\Documents\\codes\\Visual Studio\\crud-study\\crud-csharp\\windows-forms\\Clientes\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:41:34.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Marcelo Garcias\\Documents\\codes\\Visual Studio\\crud-study\\crud-csharp\\windows-forms\\Clientes\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Marcelo Garcias\\Documents\\codes\\Visual Studio\\crud-study\\versions\\v3\\windows-forms\\Funcionario\\Form1.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\versions\\v3\\windows-forms\\Funcionario\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T04:17:16.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerRegister.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo Garcias\\Documents\\codes\\Visual Studio\\crud-study\\crud-csharp\\windows-forms\\Clientes\\CustomerRegister.cs",
+              "RelativeDocumentMoniker": "CustomerRegister.cs",
+              "ToolTip": "C:\\Users\\Marcelo Garcias\\Documents\\codes\\Visual Studio\\crud-study\\crud-csharp\\windows-forms\\Clientes\\CustomerRegister.cs",
+              "RelativeToolTip": "CustomerRegister.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwKQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T04:17:13.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseConnect.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo Garcias\\Documents\\codes\\Visual Studio\\crud-study\\crud-csharp\\windows-forms\\Clientes\\BaseConnect.cs",
+              "RelativeDocumentMoniker": "BaseConnect.cs",
+              "ToolTip": "C:\\Users\\Marcelo Garcias\\Documents\\codes\\Visual Studio\\crud-study\\crud-csharp\\windows-forms\\Clientes\\BaseConnect.cs",
+              "RelativeToolTip": "BaseConnect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T04:17:11.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
