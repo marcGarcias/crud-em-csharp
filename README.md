@@ -1,5 +1,6 @@
 # Sistema de CRUD de Clientes em C#
 
+*pt-BR*
 Este repositório contém um sistema simples de CRUD (Create, Read, Update, Delete) para gerenciamento de clientes utilizando C# com Windows Forms e MySQL.
 
 ## Tecnologias Utilizadas
