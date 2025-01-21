@@ -1,6 +1,6 @@
 # Sistema de CRUD de Clientes em C#
 
-*pt-BR*
+**pt-BR**
 
 Este repositório contém um sistema simples de CRUD (Create, Read, Update, Delete) para gerenciamento de clientes utilizando C# com Windows Forms e MySQL.
 
@@ -45,3 +45,50 @@ O sistema permite realizar as seguintes operações:
 
 1. Abra o projeto no Visual Studio.
 2. Compile e execute a aplicação.
+
+**en-US**
+
+Client CRUD System in C#
+
+This repository contains a simple CRUD (Create, Read, Update, Delete) system for client management using C# with Windows Forms and MySQL.
+
+Technologies Used:
+- C# (Windows Forms)
+- MySQL (relational database)
+- MySql.Data library (for database interactions)
+
+System Features:
+The system allows performing the following operations:
+
+Client Registration:
+- The user can register a new client by providing name, email, CPF, and address.
+- CPF uniqueness verification to prevent duplicate records.
+- Data validation, such as email format and special characters in the name.
+
+Client Search:
+- Search by CPF.
+- Display of client information if found.
+
+Data Update:
+- Allows updating the email and address of registered clients.
+- Name and CPF cannot be changed after registration.
+
+Client Deletion:
+- Removal of clients from the database using the provided ID.
+
+Project Structure:
+- BaseConnect.cs: Responsible for configuring the connection string to the database.
+- Form1.cs: Contains the interface and logic for the registration, search, update, and delete buttons.
+- CustomerRegister.cs: Model class that handles database operations such as insertion, search, update, and deletion.
+
+Prerequisites for Execution:
+- Install MySQL Server.
+- Create a database named db-crud-csharp with the clients table.
+- Configure the connection credentials in the BaseConnect.cs file.
+- Have the .NET Framework installed on your machine.
+
+How to Run the Project:
+1. Open the project in Visual Studio.
+2. Compile and run the application.
+
+
